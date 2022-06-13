@@ -1,0 +1,56 @@
+@media screen and (max-width: 760px) {
+
+    header {
+        font-size: medium;
+        height: 60vh;
+    }
+
+    header > h1 {
+        padding-top: 20px;
+    }
+
+    #section1 {
+        font-size: medium;
+    }
+
+    #section2 {
+        font-size: medium;
+        display: block;
+        align-items: center;
+        text-align: center;
+        width: auto;
+        padding-left: 50px;
+        padding-right: 50px;
+
+    }
+
+    .img {
+        align-items: center;
+        text-align: center;
+        
+    }
+
+    
+
+    
+    #section3 {
+        font-size: medium;
+        width: 500px;
+    }
+
+    #section3 > p {
+        font-size: medium;
+        width: 450px;
+    }
+
+    .rightside {
+        height: 450px;
+        font-size: medium;
+        padding-bottom: 0px;
+    }
+
+    .leftside {
+        font-size: medium;
+        height: 450px;
+    }
+}

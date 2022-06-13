@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+#section4 {
+    color: white;
+    font-weight: bold;
+}
+
+#main {
+    display: flex;
+    flex-direction: row;
+}
+
+.rightside {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 50px;
+    height: 300px;
+    width: 50%;
+    background-color: rgb(54, 134, 253);
+    
+}
+
+.leftside {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 50px;
+    height: 300px;
+    width: 50%;
+    background-color: rgb(54, 54, 54);
+}
+
+.leftside > p {
+    padding-top: 50px;
+}
+
+.rightside > p {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}

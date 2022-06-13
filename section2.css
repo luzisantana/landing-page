@@ -1,0 +1,32 @@
+* #section2 {
+    background-color: rgb(54, 54, 54);
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: row;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    padding-left: 270px;
+    padding-right: 270px;
+    color: rgb(54, 54, 54);
+}
+
+.img {
+    box-shadow: 1px 1px 16px black;
+    justify-content: space-around;
+    border: none;
+    background-color: white;
+    width: 250px;
+    padding: 0px 0px 100px 0px;
+    text-align: center; 
+}
+
+h3 {
+    font-weight: bold;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+#sectio2 > p {
+    padding-left: 5px;
+    padding-right: 5px;
+}
